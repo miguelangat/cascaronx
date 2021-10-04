@@ -77,7 +77,7 @@ class Game extends React.Component {
     const winner = calculateWinner(current.squares);
     let status;
 
-    if(status = null){
+    if(status != null){
       1=1;
     }
 
