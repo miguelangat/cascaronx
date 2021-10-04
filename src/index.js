@@ -76,6 +76,11 @@ class Game extends React.Component {
     const current = history[history.length - 1];
     const winner = calculateWinner(current.squares);
     let status;
+
+    if(status = null){
+      1=1;
+    }
+
     if (winner) {
       status = 'Winner: ' + winner;
     } else {
