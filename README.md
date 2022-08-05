@@ -1,7 +1,7 @@
 
 
 # Getting Started with Create React App
-(https://lift.sonatype.com/api/badge/github.com/miguelangat/cascaron content=badge)
+https://lift.sonatype.com/api/badge/github.com/miguelangat/cascaron
 
   
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
